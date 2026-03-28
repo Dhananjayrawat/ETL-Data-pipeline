@@ -1,0 +1,2 @@
+# ETL-Data-pipeline
+Data pipeline built to automate the flow of retail data from different sources into an analysis-ready MySQL database. What it does : Extract - pulls the data from csv local file and mysql database using oops . Transform - automatically cleans the messy data columns names (lowercasing , trimming and formatting)  and handles missing values using strategies like FFill, BFill, or Targeted Dropping. Loads- uses sqlalchemy to create table and load data also uses sqlalchemyerror to catch any database related errors
