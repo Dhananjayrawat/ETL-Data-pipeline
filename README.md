@@ -1,6 +1,6 @@
 # ETL-Data-pipeline
 
-Data pipeline built to automate the flow of retail data from different sources into an analysis-ready MySQL database. 
+Data pipeline built to automate the flow of data from different sources into an analysis-ready MySQL database. 
 
 What it does : 
 
